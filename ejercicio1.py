@@ -105,5 +105,4 @@ campo_electrico_en_punto = obtener_campo(carga_puntual.pos)
 
 print(f"Campo Eléctrico en la carga puntual: {campo_electrico_en_punto} N/C")
 
-scene.waitfor("click")  # Esperar un clic para mantener abierta la visualización
-
+scene.waitfor("click")  # Esperar un clic para mantener abierta la visualización en ventana 
